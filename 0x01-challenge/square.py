@@ -3,6 +3,7 @@
     Sqaure class
 """
 
+
 class square():
     """ defines the attributes and methods of the square class """
 
